@@ -15,13 +15,28 @@ def remove_unused_images(image_path = os.getcwd(),
 
     # remove unused images
     for image in images:
-        if not image.endswith('.JPG'):
+        if not (image.endswith('.JPG') or image.endswith('.jpg')):
             continue
 
         if image not in used_images:
             os.remove(os.path.join(image_path, image))
         else:
             used_images.pop(used_images.index(image))
+    
+    for annotation in coco['annotations']:
+        if 'segmentation' in annotation:
+            annotation.pop('segmentation')
+    
+    # Serializing json
+    json_object = json.dumps(coco, indent=4)
+    
+    # Writing to sample.json
+    with open(json_path, "w") as outfile:
+        outfile.write(json_object)
 
-remove_unused_images(image_path = './full_res_test_set/',
-                     json_path = './full_res_test_set/coco_test_label.json')
+remove_unused_images(image_path = './datasets/test_images/data/',
+                     json_path = './datasets/test_images/labels.json')
+remove_unused_images(image_path = './datasets/test_images_640_02/data/',
+                     json_path = './datasets/test_images_640_02/labels.json')
+remove_unused_images(image_path = './datasets/train_images_640_02/data/',
+                     json_path = './datasets/train_images_640_02/labels.json')
