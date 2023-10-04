@@ -1,8 +1,0 @@
-path: ../thesis/datasets/640_02/
-train: images/train/
-val: images/val/
-test: images/test/
-
-nc: 1
-
-names: ["human"]

@@ -34,9 +34,5 @@ def remove_unused_images(image_path = os.getcwd(),
     with open(json_path, "w") as outfile:
         outfile.write(json_object)
 
-remove_unused_images(image_path = './datasets/test_images/data/',
-                     json_path = './datasets/test_images/labels.json')
-remove_unused_images(image_path = './datasets/test_images_640_02/data/',
-                     json_path = './datasets/test_images_640_02/labels.json')
-remove_unused_images(image_path = './datasets/train_images_640_02/data/',
-                     json_path = './datasets/train_images_640_02/labels.json')
+remove_unused_images(image_path = './datasets/320_12/coco_train_label_images_320_012',
+                     json_path = './datasets/320_12/coco_train_label_320_012.json')

@@ -1,0 +1,6 @@
+(sahi) C:\Users\Lenovo ThinkBook\Documents\Thesis\thesis>sahi coco slice --image_dir "C:\Users\Lenovo ThinkBook\Documents\Thesis\heridal\trainImages" --dataset_json_path "C:\Users\Lenovo ThinkBook\Documents\Thesis\heridal\trainImages\coco_train_label.json" --slice_size 640 --overlap_ratio 0.06 --ignore_negative_samples True --output_dir "datasets\640_06" --min_area_ratio 0.75
+Slicing step is starting...
+indexing coco dataset annotations...
+Loading coco annotations: 100%|████████████████████████████████████████████████████| 985/985 [00:00<00:00, 4151.72it/s]
+100%|████████████████████████████████████████████████████████████████████████████████| 985/985 [11:17<00:00,  1.45it/s]
+Sliced dataset for 'slice_size: 640' is exported to datasets\640_06
