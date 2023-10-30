@@ -1,0 +1,11 @@
+300 epochs completed in 1.901 hours.
+Optimizer stripped from runs/detect/train4/weights/last.pt, 6.2MB
+Optimizer stripped from runs/detect/train4/weights/best.pt, 6.2MB
+
+Validating runs/detect/train4/weights/best.pt...
+Ultralytics YOLOv8.0.194 🚀 Python-3.10.12 torch-2.0.1+cu118 CUDA:0 (Tesla T4, 15102MiB)
+Model summary (fused): 168 layers, 3005843 parameters, 0 gradients, 8.1 GFLOPs
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 5/5 [00:03<00:00,  1.36it/s]
+                   all        271        323      0.931      0.922      0.969      0.702
+Speed: 0.7ms preprocess, 1.0ms inference, 0.0ms loss, 1.7ms postprocess per image
+Results saved to runs/detect/train4
