@@ -54,13 +54,15 @@ def optimize_overlap(label_folder, target_crop_w, target_crop_h):
 
 
 # note to future self, accept objects that are still 75% whole after crop to remove dupes while minimizing crops for a bit faster training
+# optimize_overlap(
+#     "C:/Users/Japh/Documents/Thesis2/heridal/trainImages/labels/", 320, 320
+# )
+# optimize_overlap(
+#     "C:/Users/Japh/Documents/Thesis2/heridal/trainImages/labels/", 640, 640
+# )
+# optimize_overlap(
+#     "C:/Users/Japh/Documents/Thesis2/heridal/trainImages/labels/", 512, 512
+# )
 optimize_overlap(
-    "C:/Users/Japh/Documents/Thesis2/heridal/trainImages/labels/", 320, 320
+    "C:/Users/Japh/Documents/Thesis2/heridal/trainImages/labels/", 1280, 1280
 )
-optimize_overlap(
-    "C:/Users/Japh/Documents/Thesis2/heridal/trainImages/labels/", 640, 640
-)
-optimize_overlap(
-    "C:/Users/Japh/Documents/Thesis2/heridal/trainImages/labels/", 512, 512
-)
-# optimize_overlap("D:/00FILES/Thesis2/heridal/testImages/labels", 1280, 1280)
