@@ -1,0 +1,205 @@
+indexing coco dataset annotations...
+Loading coco annotations: 100%|██████████| 101/101 [00:00<00:00, 1539.47it/s]
+Performing inference on images:   0%|          | 0/101 [00:00<?, ?it/s]Performing prediction on 35 number of slices.
+Performing inference on images:   1%|          | 1/101 [00:02<04:16,  2.57s/it]Prediction time is: 2045.26 ms
+Performing inference on images:   1%|          | 1/101 [00:03<04:16,  2.57s/it]Performing prediction on 35 number of slices.
+Performing inference on images:   2%|▏         | 2/101 [00:04<04:02,  2.45s/it]Prediction time is: 1801.13 ms
+Performing inference on images:   2%|▏         | 2/101 [00:05<04:02,  2.45s/it]Performing prediction on 35 number of slices.
+Performing inference on images:   3%|▎         | 3/101 [00:06<03:18,  2.02s/it]Prediction time is: 1150.94 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:   4%|▍         | 4/101 [00:07<02:49,  1.75s/it]Prediction time is: 1187.20 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:   5%|▍         | 5/101 [00:09<02:32,  1.59s/it]Prediction time is: 1160.95 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:   6%|▌         | 6/101 [00:10<02:22,  1.50s/it]Prediction time is: 1174.54 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:   7%|▋         | 7/101 [00:11<02:14,  1.43s/it]Prediction time is: 1164.39 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:   8%|▊         | 8/101 [00:13<02:10,  1.41s/it]Prediction time is: 1242.01 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:   9%|▉         | 9/101 [00:14<02:07,  1.39s/it]Prediction time is: 1215.60 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  10%|▉         | 10/101 [00:16<02:22,  1.57s/it]Prediction time is: 1825.99 ms
+Performing inference on images:  10%|▉         | 10/101 [00:16<02:22,  1.57s/it]Performing prediction on 35 number of slices.
+Performing inference on images:  11%|█         | 11/101 [00:18<02:35,  1.73s/it]Prediction time is: 1900.70 ms
+Performing inference on images:  11%|█         | 11/101 [00:18<02:35,  1.73s/it]Performing prediction on 35 number of slices.
+Performing inference on images:  12%|█▏        | 12/101 [00:20<02:35,  1.75s/it]Prediction time is: 1603.07 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  13%|█▎        | 13/101 [00:21<02:21,  1.60s/it]Prediction time is: 1150.22 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  14%|█▍        | 14/101 [00:23<02:12,  1.52s/it]Prediction time is: 1191.02 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  15%|█▍        | 15/101 [00:24<02:05,  1.46s/it]Prediction time is: 1188.54 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  16%|█▌        | 16/101 [00:25<01:59,  1.41s/it]Prediction time is: 1153.17 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  17%|█▋        | 17/101 [00:26<01:55,  1.37s/it]Prediction time is: 1149.05 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  18%|█▊        | 18/101 [00:28<01:52,  1.36s/it]Prediction time is: 1184.39 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  19%|█▉        | 19/101 [00:29<01:50,  1.34s/it]Prediction time is: 1168.94 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  20%|█▉        | 20/101 [00:31<02:03,  1.52s/it]Prediction time is: 1799.11 ms
+Performing inference on images:  20%|█▉        | 20/101 [00:31<02:03,  1.52s/it]Performing prediction on 35 number of slices.
+Performing inference on images:  21%|██        | 21/101 [00:33<02:16,  1.70s/it]Prediction time is: 1941.28 ms
+Performing inference on images:  21%|██        | 21/101 [00:33<02:16,  1.70s/it]Performing prediction on 35 number of slices.
+Performing inference on images:  22%|██▏       | 22/101 [00:35<02:15,  1.72s/it]Prediction time is: 1572.57 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  23%|██▎       | 23/101 [00:36<02:03,  1.58s/it]Prediction time is: 1139.59 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  24%|██▍       | 24/101 [00:37<01:55,  1.49s/it]Prediction time is: 1141.14 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  25%|██▍       | 25/101 [00:39<01:48,  1.43s/it]Prediction time is: 1147.89 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  26%|██▌       | 26/101 [00:40<01:44,  1.39s/it]Prediction time is: 1164.17 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  27%|██▋       | 27/101 [00:41<01:40,  1.36s/it]Prediction time is: 1149.41 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  28%|██▊       | 28/101 [00:43<01:37,  1.33s/it]Prediction time is: 1144.28 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  29%|██▊       | 29/101 [00:44<01:35,  1.32s/it]Prediction time is: 1147.14 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  30%|██▉       | 30/101 [00:45<01:43,  1.46s/it]Prediction time is: 1656.41 ms
+Performing inference on images:  30%|██▉       | 30/101 [00:46<01:43,  1.46s/it]Performing prediction on 35 number of slices.
+Performing inference on images:  31%|███       | 31/101 [00:48<01:54,  1.64s/it]Prediction time is: 1855.31 ms
+Performing inference on images:  31%|███       | 31/101 [00:48<01:54,  1.64s/it]Performing prediction on 35 number of slices.
+Performing inference on images:  32%|███▏      | 32/101 [00:50<01:57,  1.70s/it]Prediction time is: 1588.77 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  33%|███▎      | 33/101 [00:51<01:46,  1.57s/it]Prediction time is: 1138.05 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  34%|███▎      | 34/101 [00:52<01:40,  1.50s/it]Prediction time is: 1180.94 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  35%|███▍      | 35/101 [00:54<01:36,  1.46s/it]Prediction time is: 1217.49 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  36%|███▌      | 36/101 [00:55<01:32,  1.42s/it]Prediction time is: 1175.44 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  37%|███▋      | 37/101 [00:56<01:28,  1.38s/it]Prediction time is: 1152.45 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  38%|███▊      | 38/101 [00:57<01:26,  1.37s/it]Prediction time is: 1180.28 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  39%|███▊      | 39/101 [00:59<01:23,  1.35s/it]Prediction time is: 1160.83 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  40%|███▉      | 40/101 [01:01<01:34,  1.54s/it]Prediction time is: 1839.70 ms
+Performing inference on images:  40%|███▉      | 40/101 [01:01<01:34,  1.54s/it]Performing prediction on 35 number of slices.
+Performing inference on images:  41%|████      | 41/101 [01:03<01:43,  1.73s/it]Prediction time is: 1942.05 ms
+Performing inference on images:  41%|████      | 41/101 [01:03<01:43,  1.73s/it]Performing prediction on 35 number of slices.
+Performing inference on images:  42%|████▏     | 42/101 [01:05<01:42,  1.74s/it]Prediction time is: 1566.59 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  43%|████▎     | 43/101 [01:06<01:32,  1.60s/it]Prediction time is: 1137.94 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  44%|████▎     | 44/101 [01:07<01:26,  1.52s/it]Prediction time is: 1201.07 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  45%|████▍     | 45/101 [01:09<01:21,  1.46s/it]Prediction time is: 1195.92 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  46%|████▌     | 46/101 [01:10<01:17,  1.40s/it]Prediction time is: 1163.04 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  47%|████▋     | 47/101 [01:11<01:12,  1.35s/it]Prediction time is: 1123.70 ms
+Performing inference on images:  47%|████▋     | 47/101 [01:11<01:12,  1.35s/it]Performing prediction on 35 number of slices.
+Performing inference on images:  48%|████▊     | 48/101 [01:13<01:13,  1.39s/it]Prediction time is: 1137.51 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  49%|████▊     | 49/101 [01:14<01:10,  1.36s/it]Prediction time is: 1160.12 ms
+Performing inference on images:  49%|████▊     | 49/101 [01:14<01:10,  1.36s/it]Performing prediction on 35 number of slices.
+Performing inference on images:  50%|████▉     | 50/101 [01:16<01:26,  1.70s/it]Prediction time is: 2117.54 ms
+Performing inference on images:  50%|████▉     | 50/101 [01:17<01:26,  1.70s/it]Performing prediction on 35 number of slices.
+Performing inference on images:  50%|█████     | 51/101 [01:19<01:36,  1.92s/it]Prediction time is: 1932.02 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  51%|█████▏    | 52/101 [01:20<01:26,  1.77s/it]Prediction time is: 1282.91 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  52%|█████▏    | 53/101 [01:22<01:18,  1.63s/it]Prediction time is: 1155.98 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  53%|█████▎    | 54/101 [01:23<01:11,  1.53s/it]Prediction time is: 1164.30 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  54%|█████▍    | 55/101 [01:24<01:07,  1.47s/it]Prediction time is: 1200.69 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  55%|█████▌    | 56/101 [01:25<01:04,  1.43s/it]Prediction time is: 1166.46 ms
+Performing inference on images:  55%|█████▌    | 56/101 [01:26<01:04,  1.43s/it]Performing prediction on 35 number of slices.
+Performing inference on images:  56%|█████▋    | 57/101 [01:27<01:04,  1.46s/it]Prediction time is: 1152.86 ms
+Performing inference on images:  56%|█████▋    | 57/101 [01:27<01:04,  1.46s/it]Performing prediction on 35 number of slices.
+Performing inference on images:  57%|█████▋    | 58/101 [01:29<01:04,  1.51s/it]Prediction time is: 1204.81 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  58%|█████▊    | 59/101 [01:30<01:07,  1.60s/it]Prediction time is: 1679.60 ms
+Performing inference on images:  58%|█████▊    | 59/101 [01:31<01:07,  1.60s/it]Performing prediction on 35 number of slices.
+Performing inference on images:  59%|█████▉    | 60/101 [01:33<01:13,  1.79s/it]Prediction time is: 1996.72 ms
+Performing inference on images:  59%|█████▉    | 60/101 [01:33<01:13,  1.79s/it]Performing prediction on 35 number of slices.
+Performing inference on images:  60%|██████    | 61/101 [01:35<01:14,  1.87s/it]Prediction time is: 1830.22 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  61%|██████▏   | 62/101 [01:36<01:06,  1.71s/it]Prediction time is: 1188.49 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  62%|██████▏   | 63/101 [01:37<01:00,  1.60s/it]Prediction time is: 1187.81 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  63%|██████▎   | 64/101 [01:39<00:56,  1.52s/it]Prediction time is: 1165.05 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  64%|██████▍   | 65/101 [01:40<00:52,  1.45s/it]Prediction time is: 1150.61 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  65%|██████▌   | 66/101 [01:41<00:49,  1.41s/it]Prediction time is: 1147.18 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  66%|██████▋   | 67/101 [01:43<00:46,  1.38s/it]Prediction time is: 1166.52 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  67%|██████▋   | 68/101 [01:44<00:45,  1.36s/it]Prediction time is: 1166.39 ms
+Performing prediction on 28 number of slices.
+Performing inference on images:  68%|██████▊   | 69/101 [01:45<00:44,  1.39s/it]Prediction time is: 1320.02 ms
+Performing prediction on 28 number of slices.
+Performing inference on images:  69%|██████▉   | 70/101 [01:47<00:46,  1.49s/it]Prediction time is: 1545.84 ms
+Performing inference on images:  69%|██████▉   | 70/101 [01:47<00:46,  1.49s/it]Performing prediction on 35 number of slices.
+Performing inference on images:  70%|███████   | 71/101 [01:49<00:50,  1.67s/it]Prediction time is: 1885.17 ms
+Performing prediction on 28 number of slices.
+Performing inference on images:  71%|███████▏  | 72/101 [01:50<00:43,  1.49s/it]Prediction time is: 951.37 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  72%|███████▏  | 73/101 [01:52<00:40,  1.44s/it]Prediction time is: 1176.08 ms
+Performing prediction on 28 number of slices.
+Performing inference on images:  73%|███████▎  | 74/101 [01:53<00:36,  1.34s/it]Prediction time is: 997.67 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  74%|███████▍  | 75/101 [01:54<00:35,  1.36s/it]Prediction time is: 1251.12 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  75%|███████▌  | 76/101 [01:55<00:33,  1.34s/it]Prediction time is: 1142.36 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  76%|███████▌  | 77/101 [01:57<00:31,  1.32s/it]Prediction time is: 1133.56 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  77%|███████▋  | 78/101 [01:58<00:30,  1.31s/it]Prediction time is: 1164.79 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  78%|███████▊  | 79/101 [01:59<00:28,  1.31s/it]Prediction time is: 1168.19 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  79%|███████▉  | 80/101 [02:01<00:32,  1.53s/it]Prediction time is: 1886.15 ms
+Performing inference on images:  79%|███████▉  | 80/101 [02:01<00:32,  1.53s/it]Performing prediction on 35 number of slices.
+Performing inference on images:  80%|████████  | 81/101 [02:03<00:34,  1.71s/it]Prediction time is: 1910.55 ms
+Performing inference on images:  80%|████████  | 81/101 [02:04<00:34,  1.71s/it]Performing prediction on 35 number of slices.
+Performing inference on images:  81%|████████  | 82/101 [02:05<00:31,  1.68s/it]Prediction time is: 1420.62 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  82%|████████▏ | 83/101 [02:06<00:28,  1.56s/it]Prediction time is: 1134.96 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  83%|████████▎ | 84/101 [02:08<00:25,  1.50s/it]Prediction time is: 1229.21 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  84%|████████▍ | 85/101 [02:09<00:23,  1.46s/it]Prediction time is: 1191.19 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  85%|████████▌ | 86/101 [02:10<00:21,  1.41s/it]Prediction time is: 1143.92 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  86%|████████▌ | 87/101 [02:12<00:19,  1.36s/it]Prediction time is: 1115.41 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  87%|████████▋ | 88/101 [02:13<00:17,  1.33s/it]Prediction time is: 1107.93 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  88%|████████▊ | 89/101 [02:14<00:15,  1.32s/it]Prediction time is: 1127.31 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  89%|████████▉ | 90/101 [02:16<00:16,  1.54s/it]Prediction time is: 1914.48 ms
+Performing inference on images:  89%|████████▉ | 90/101 [02:16<00:16,  1.54s/it]Performing prediction on 35 number of slices.
+Performing inference on images:  90%|█████████ | 91/101 [02:18<00:16,  1.69s/it]Prediction time is: 1867.39 ms
+Performing inference on images:  90%|█████████ | 91/101 [02:18<00:16,  1.69s/it]Performing prediction on 35 number of slices.
+Performing inference on images:  91%|█████████ | 92/101 [02:20<00:15,  1.68s/it]Prediction time is: 1478.62 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  92%|█████████▏| 93/101 [02:21<00:12,  1.57s/it]Prediction time is: 1153.40 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  93%|█████████▎| 94/101 [02:23<00:10,  1.50s/it]Prediction time is: 1196.46 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  94%|█████████▍| 95/101 [02:24<00:08,  1.44s/it]Prediction time is: 1184.47 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  95%|█████████▌| 96/101 [02:25<00:06,  1.39s/it]Prediction time is: 1156.15 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  96%|█████████▌| 97/101 [02:26<00:05,  1.35s/it]Prediction time is: 1140.47 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  97%|█████████▋| 98/101 [02:28<00:04,  1.34s/it]Prediction time is: 1183.49 ms
+Performing inference on images:  97%|█████████▋| 98/101 [02:28<00:04,  1.34s/it]Performing prediction on 35 number of slices.
+Performing inference on images:  98%|█████████▊| 99/101 [02:29<00:02,  1.35s/it]Prediction time is: 1126.93 ms
+Performing prediction on 35 number of slices.
+Performing inference on images:  99%|█████████▉| 100/101 [02:31<00:01,  1.55s/it]Prediction time is: 1867.66 ms
+Performing inference on images:  99%|█████████▉| 100/101 [02:31<00:01,  1.55s/it]Performing prediction on 35 number of slices.
+Performing inference on images: 100%|██████████| 101/101 [02:33<00:00,  1.52s/it]Prediction time is: 1873.58 ms
+Prediction results are successfully exported to sahi/640x640_0.06
