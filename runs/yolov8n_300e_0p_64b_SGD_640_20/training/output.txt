@@ -1,0 +1,11 @@
+123 epochs completed in 2.419 hours.
+Optimizer stripped from drive/MyDrive/00runs/yolov8n_300e_0p_64b_SGD_640_20/training/train/weights/last.pt, 6.3MB
+Optimizer stripped from drive/MyDrive/00runs/yolov8n_300e_0p_64b_SGD_640_20/training/train/weights/best.pt, 6.3MB
+
+Validating drive/MyDrive/00runs/yolov8n_300e_0p_64b_SGD_640_20/training/train/weights/best.pt...
+Ultralytics YOLOv8.1.6 🚀 Python-3.10.12 torch-2.1.0+cu121 CUDA:0 (Tesla T4, 15102MiB)
+Model summary (fused): 168 layers, 3005843 parameters, 0 gradients, 8.1 GFLOPs
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 3/3 [00:09<00:00,  3.13s/it]
+                   all        330        447      0.952      0.931      0.978      0.782
+Speed: 0.2ms preprocess, 2.7ms inference, 0.0ms loss, 6.4ms postprocess per image
+Results saved to drive/MyDrive/00runs/yolov8n_300e_0p_64b_SGD_640_20/training/train
